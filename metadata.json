@@ -1,5 +1,5 @@
 {
-  "name": "VTV Streaming",
-  "description": "A premium streaming platform with admin-curated content and manual subscription validation.",
+  "name": "Élection Meilleur Élève VTV",
+  "description": "Système de vote pour l'élection du meilleur élève de 3ème de la promotion.",
   "requestFramePermissions": []
 }
